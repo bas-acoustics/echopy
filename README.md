@@ -1,4 +1,7 @@
-# echopy
+# SUPERSEDED REPOSITORY
+This repository is now archived and read-only. 
+
+Get the last developing version of Echopy in  [https://github.com/open-ocean-sounding/echopy](https://github.com/open-ocean-sounding/echopy)
 
 ![Lifecycle](https://img.shields.io/badge/lifecycle-experimental-orange.svg)
 
